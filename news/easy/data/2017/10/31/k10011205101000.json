@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011205101000",
+  "news_prearranged_time": "2017-10-31 16:50:00",
+  "title": "アメリカの大統領が来る　駅でゴミ箱などを使えなくする",
+  "title_with_ruby": "アメリカの<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>る　<ruby>駅<rt>えき</rt></ruby>でゴミ<ruby>箱<rt>ばこ</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>えなくする",
+  "outline_with_ruby": "<p>１１<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>から<ruby>７日<rt>なのか</rt></ruby>まで、アメリカのトランプ<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171031/../20171031/K10011205101_1710310536_1710310556_01_03.jpg",
+  "news_web_movie_uri": "k10011205101_201710310536_201710310554.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011205101000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011205101000/k10011205101000.html"
+}

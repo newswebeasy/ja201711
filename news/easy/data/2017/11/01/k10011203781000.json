@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011203781000",
+  "news_prearranged_time": "2017-11-01 11:30:00",
+  "title": "「東京スカイツリータウン」に来た人　５年５か月で２億人",
+  "title_with_ruby": "「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウン」に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>　５<ruby>年<rt>ねん</rt></ruby>５か<ruby>月<rt>げつ</rt></ruby>で２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>墨田区<rt>すみだく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーは<ruby>高<rt>たか</rt></ruby>さ６３４ｍの<a href='javascript:void(0)' class='dicWin' id='id-0000'>タワー</a>で、２０１２<ruby>年<rt>ねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>にできました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171030/../20171030/K10011203781_1710301047_1710301059_01_02.jpg",
+  "news_web_movie_uri": "k10011203781_201710301148_201710301151.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011203781000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011203781000/k10011203781000.html"
+}

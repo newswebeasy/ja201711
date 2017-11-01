@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011206341000",
+  "news_prearranged_time": "2017-11-01 16:30:00",
+  "title": "神奈川県のアパートで９人の遺体が見つかる",
+  "title_with_ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>のアパートで９<ruby>人<rt>にん</rt></ruby>の<ruby>遺体<rt>いたい</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる",
+  "outline_with_ruby": "<p>１０<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>座間市<rt>ざまし</rt></ruby>のアパートの<ruby>部屋<rt>へや</rt></ruby>で９<ruby>人<rt>にん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>遺体<rt>いたい</rt></ruby></a>が<ruby>見<rt>み</rt></ruby>つかりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171101/../20171101/K10011206341_1711010038_1711010430_01_02.jpg",
+  "news_web_movie_uri": "k10011206341_201711010921_201711010923.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011206341000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011206341000/k10011206341000.html"
+}
