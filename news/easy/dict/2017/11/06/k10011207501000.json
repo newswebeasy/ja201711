@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>の<ruby><rb>幼虫</rb><rt>ようちゅう</rt></ruby>がさなぎに<ruby><rb>変</rb><rt>か</rt></ruby>わるときに、<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>糸</rb><rt>いと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>るからのようなもの。<ruby><rb>特</rb><rt>とく</rt></ruby>に、カイコの<ruby><rb>繭</rb><rt>まゆ</rt></ruby>からは、<ruby><rb>生糸</rb><rt>きいと</rt></ruby>をとる。",
+          "hyouki": [
+            "繭"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>絹糸</rb><rt>きぬいと</rt></ruby>のこと。",
+          "hyouki": [
+            "絹"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絹織物</rb><rt>きぬおりもの</rt></ruby>のこと。",
+          "hyouki": [
+            "絹"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。",
+          "hyouki": [
+            "農業"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "LED"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ぶつける。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>させる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "ねらったとおりになる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "くっつける。あてがう。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "あてはめる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などをさせる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。",
+          "hyouki": [
+            "当てる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ろか<ruby><rb>器</rb><rt>き</rt></ruby>。<ruby><rb>流</rb><rt>なが</rt></ruby>れこんでくるものを、こしたり、ふるい<ruby><rb>分</rb><rt>わ</rt></ruby>けたりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "フィルター"
+          ]
+        },
+        {
+          "def": "カメラのレンズの<ruby><rb>前</rb><rt>まえ</rt></ruby>につけて<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>調節</rb><rt>ちょうせつ</rt></ruby>する<ruby><rb>色</rb><rt>いろ</rt></ruby>ガラス。",
+          "hyouki": [
+            "フィルター"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "しばいやおどりなどの<ruby><rb>演技</rb><rt>えんぎ</rt></ruby>をする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ステージ。",
+          "hyouki": [
+            "舞台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "舞台"
+          ]
+        }
+      ]
+    }
+  }
+}
