@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ちがい。へだたり。",
+          "hyouki": [
+            "差"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "差"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "収入"
+          ]
+        }
+      ]
+    }
+  }
+}
