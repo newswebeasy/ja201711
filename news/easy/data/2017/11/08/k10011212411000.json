@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011212411000",
+  "news_prearranged_time": "2017-11-08 11:30:00",
+  "title": "静岡県でサクラエビの秋の漁が始まる",
+  "title_with_ruby": "<ruby>静岡県<rt>しずおかけん</rt></ruby>でサクラエビの<ruby>秋<rt>あき</rt></ruby>の<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p><ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>駿河湾<rt>するがわん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'>とれる</a>サクラエビは、<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが４ｃｍぐらいの<ruby>小<rt>ちい</rt></ruby>さい<a href='javascript:void(0)' class='dicWin' id='id-0002'>えび</a>で、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>桜<rt>さくら</rt></ruby></a>のような<a href='javascript:void(0)' class='dicWin' id='id-0004'>ピンク</a><ruby>色<rt>いろ</rt></ruby>をしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171106/../20171106/K10011212411_1711061728_1711061728_01_03.jpg",
+  "news_web_movie_uri": "k10011212411_201711061728_201711061728.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011212411000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011212411000/k10011212411000.html"
+}
