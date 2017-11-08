@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>四</rb><rt>よ</rt></ruby>すみに<ruby><rb>角</rb><rt>かど</rt></ruby>がある<ruby><rb>形</rb><rt>かたち</rt></ruby>。",
+          "hyouki": [
+            "四角"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>空</rb><rt>そら</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>のほうへあがる。",
+          "hyouki": [
+            "昇る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>電灯</rb><rt>でんとう</rt></ruby>のガラスの<ruby><rb>球</rb><rt>たま</rt></ruby>。<ruby><rb>球</rb><rt>たま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、フィラメントが<ruby><rb>入</rb><rt>い</rt></ruby>れてある。",
+          "hyouki": [
+            "電球"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気象</rb><rt>きしょう</rt></ruby>や<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>観測</rb><rt>かんそく</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>の<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>もする。",
+          "hyouki": [
+            "気象台"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>が<ruby><rb>異常</rb><rt>いじょう</rt></ruby>に<ruby><rb>曲</rb><rt>ま</rt></ruby>がって、<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>逆</rb><rt>さか</rt></ruby>さに<ruby><rb>見</rb><rt>み</rt></ruby>えたり、<ruby><rb>見</rb><rt>み</rt></ruby>えるはずのない<ruby><rb>遠</rb><rt>とお</rt></ruby>くの<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>近</rb><rt>ちか</rt></ruby>くに<ruby><rb>見</rb><rt>み</rt></ruby>えたり、<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にういて<ruby><rb>見</rb><rt>み</rt></ruby>えたりする<ruby><rb>現象</rb><rt>げんしょう</rt></ruby>。<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>や、<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>などで<ruby><rb>見</rb><rt>み</rt></ruby>られる。",
+          "hyouki": [
+            "蜃気楼"
+          ]
+        }
+      ]
+    }
+  }
+}

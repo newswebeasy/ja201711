@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。",
+          "hyouki": [
+            "国会"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>意見</rb><rt>いけん</rt></ruby>や<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>述</rb><rt>の</rt></ruby>べること。",
+          "hyouki": [
+            "演説"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。また、その<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>。",
+          "hyouki": [
+            "警告"
+          ]
+        }
+      ]
+    }
+  }
+}
