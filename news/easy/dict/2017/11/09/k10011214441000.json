@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>本館</rb><rt>ほんかん</rt></ruby>のほかに、<ruby><rb>別</rb><rt>べつ</rt></ruby>に<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "別館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>からくみ<ruby><rb>上</rb><rt>あ</rt></ruby>げたままで、まだ<ruby><rb>精製</rb><rt>せいせい</rt></ruby>していない<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>。",
+          "hyouki": [
+            "原油"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ]
+    }
+  }
+}
