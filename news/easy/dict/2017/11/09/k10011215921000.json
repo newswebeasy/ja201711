@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。",
+          "hyouki": [
+            "世界遺産"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>君主</rb><rt>くんしゅ</rt></ruby>。<ruby><rb>王</rb><rt>おう</rt></ruby>。",
+          "hyouki": [
+            "皇帝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "観光地"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>北</rb><rt>きた</rt></ruby>と<ruby><rb>東</rb><rt>ひがし</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。<ruby><rb>東北</rb><rt>とうほく</rt></ruby>。",
+          "hyouki": [
+            "北東"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ほかによい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>がない。",
+          "hyouki": [
+            "仕方がない"
+          ]
+        },
+        {
+          "def": "よくない。しようがない。",
+          "hyouki": [
+            "仕方がない"
+          ]
+        },
+        {
+          "def": "たまらない。",
+          "hyouki": [
+            "仕方がない"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いことが<ruby><rb>起</rb><rt>お</rt></ruby>こらないように、<ruby><rb>気</rb><rt>き</rt></ruby>をつけて<ruby><rb>守</rb><rt>まも</rt></ruby>ること。",
+          "hyouki": [
+            "警備"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。",
+          "hyouki": [
+            "柵"
+          ]
+        }
+      ]
+    }
+  }
+}
