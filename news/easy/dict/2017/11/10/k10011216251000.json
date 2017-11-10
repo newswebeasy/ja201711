@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との、せまい<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "挟まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>対立</rb><rt>たいりつ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ。",
+          "hyouki": [
+            "挟まる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。",
+          "hyouki": [
+            "息"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。",
+          "hyouki": [
+            "骨"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ころころと<ruby><rb>回</rb><rt>まわ</rt></ruby>って<ruby><rb>動</rb><rt>うご</rt></ruby>く。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "たおれる。<ruby><rb>転</rb><rt>ころ</rt></ruby>ぶ。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。",
+          "hyouki": [
+            "転がる"
+          ]
+        },
+        {
+          "def": "いくらでもある。",
+          "hyouki": [
+            "転がる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との、せまい<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "挟まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>対立</rb><rt>たいりつ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ。",
+          "hyouki": [
+            "挟まる"
+          ]
+        }
+      ]
+    }
+  }
+}

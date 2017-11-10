@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などで、<ruby><rb>児童</rb><rt>じどう</rt></ruby>や<ruby><rb>生徒</rb><rt>せいと</rt></ruby>に<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。また、その<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>。",
+          "hyouki": [
+            "給食"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。",
+          "hyouki": [
+            "蟹"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。",
+          "hyouki": [
+            "漁師"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。",
+          "hyouki": [
+            "新鮮"
+          ]
+        },
+        {
+          "def": "すがすがしくて、よごれていないようす。",
+          "hyouki": [
+            "新鮮"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>などが<ruby><rb>運営</rb><rt>うんえい</rt></ruby>すること。",
+          "hyouki": [
+            "公立"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとを<ruby><rb>教</rb><rt>おし</rt></ruby>え、ならうところ。",
+          "hyouki": [
+            "校"
+          ]
+        },
+        {
+          "def": "<ruby><rb>原稿</rb><rt>げんこう</rt></ruby>などと、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>わせてただす。",
+          "hyouki": [
+            "校"
+          ]
+        }
+      ]
+    }
+  }
+}

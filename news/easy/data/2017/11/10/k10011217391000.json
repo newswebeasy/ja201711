@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011217391000",
+  "news_prearranged_time": "2017-11-10 17:00:00",
+  "title": "富山県　小学校の給食で１人１匹のベニズワイガニ",
+  "title_with_ruby": "<ruby>富山県<rt>とやまけん</rt></ruby>　<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>１<ruby>匹<rt>ぴき</rt></ruby>のベニズワイガニ",
+  "outline_with_ruby": "<p><ruby>富山湾<rt>とやまわん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0001'>とれ</a>たベニズワイガニという<a href='javascript:void(0)' class='dicWin' id='id-0002'>かに</a>は、<ruby>富山県<rt>とやまけん</rt></ruby><ruby>魚津市<rt>うおづし</rt></ruby>にたくさん<ruby>集<rt>あつ</rt></ruby>まります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171109/../20171109/K10011217391_1711091631_1711091633_01_02.jpg",
+  "news_web_movie_uri": "k10011217391_201711091741_201711091742.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011217391000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011217391000/k10011217391000.html"
+}

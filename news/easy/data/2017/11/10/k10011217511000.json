@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011217511000",
+  "news_prearranged_time": "2017-11-10 17:00:00",
+  "title": "外国から旅行に来た人が病院を探すためのアプリができる",
+  "title_with_ruby": "<ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すためのアプリができる",
+  "outline_with_ruby": "<p><ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171109/../20171109/K10011217511_1711091810_1711091905_01_03.jpg",
+  "news_web_movie_uri": "k10011217511_201711091858_201711091905.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011217511000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011217511000/k10011217511000.html"
+}
