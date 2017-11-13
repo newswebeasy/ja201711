@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011217621000",
+  "news_prearranged_time": "2017-11-13 11:30:00",
+  "title": "東京都　いろいろな国のことばで案内するロボットの実験",
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　いろいろな<ruby>国<rt>くに</rt></ruby>のことばで<ruby>案内<rt>あんない</rt></ruby>するロボットの<ruby>実験<rt>じっけん</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>などに、<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>を<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>観光地<rt>かんこうち</rt></ruby></a>や<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>都庁<rt>とちょう</rt></ruby></a>の<ruby>案内<rt>あんない</rt></ruby>をする<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>実験<rt>じっけん</rt></ruby></a>を１３<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171109/../20171109/K10011217621_1711091836_1711091837_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011217621000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011217621000/k10011217621000.html"
+}
