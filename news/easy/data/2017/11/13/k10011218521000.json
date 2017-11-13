@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011218521000",
+  "news_prearranged_time": "2017-11-13 16:00:00",
+  "title": "日本へ旅行に来た外国人が今まででいちばん多くなる",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は、１１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>に、２４０３<ruby>万<rt>まん</rt></ruby>９７００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171110/../20171110/K10011218521_1711101107_1711101107_01_02.jpg",
+  "news_web_movie_uri": "k10011218521_201711101221_201711101224.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011218521000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011218521000/k10011218521000.html"
+}

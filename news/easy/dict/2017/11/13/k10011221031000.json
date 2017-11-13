@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>煮</rb><rt>に</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "鍋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」で<ruby><rb>煮</rb><rt>に</rt></ruby>ながら<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。",
+          "hyouki": [
+            "鍋"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>やだしじるに、なまの<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>食</rb><rt>た</rt></ruby>べられるようにする。",
+          "hyouki": [
+            "煮る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "めいめい。おのおの。",
+          "hyouki": [
+            "それぞれ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。",
+          "hyouki": [
+            "地方"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われているけもの。ずんぐり<ruby><rb>太</rb><rt>ふと</rt></ruby>っている。<ruby><rb>肉</rb><rt>にく</rt></ruby>は<ruby><rb>食</rb><rt>た</rt></ruby>べられ、<ruby><rb>皮</rb><rt>かわ</rt></ruby>も<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "豚"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。",
+          "hyouki": [
+            "骨"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>肉</rb><rt>にく</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>を<ruby><rb>煮</rb><rt>に</rt></ruby>たしるに、<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたもの。",
+          "hyouki": [
+            "スープ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "やや<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>の<ruby><rb>底</rb><rt>そこ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>平</rb><rt>ひら</rt></ruby>たくて、<ruby><rb>口</rb><rt>くち</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きい。<ruby><rb>頭</rb><rt>あたま</rt></ruby>にある<ruby><rb>長</rb><rt>なが</rt></ruby>いひれで<ruby><rb>小魚</rb><rt>こざかな</rt></ruby>をさそって<ruby><rb>食</rb><rt>た</rt></ruby>べる。なべ<ruby><rb>料理</rb><rt>りょうり</rt></ruby>にする。",
+          "hyouki": [
+            "あんこう"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>右上</rb><rt>みぎうえ</rt></ruby>にある<ruby><rb>器官</rb><rt>きかん</rt></ruby>。<ruby><rb>胆汁</rb><rt>たんじゅう</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>消化</rb><rt>しょうか</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>毒物</rb><rt>どくぶつ</rt></ruby>をこわしたり、<ruby><rb>余分</rb><rt>よぶん</rt></ruby>な<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をたくわえたりする。",
+          "hyouki": [
+            "肝臓"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>やだしじるに、なまの<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>食</rb><rt>た</rt></ruby>べられるようにする。",
+          "hyouki": [
+            "煮る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>かくする。<ruby><rb>冷</rb><rt>つめ</rt></ruby>たくなくする。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>が<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にかかえる。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>せずに<ruby><rb>手</rb><rt>て</rt></ruby>もとにおく。",
+          "hyouki": [
+            "温める"
+          ]
+        }
+      ]
+    }
+  }
+}
