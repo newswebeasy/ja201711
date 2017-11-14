@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011221251000",
+  "news_prearranged_time": "2017-11-14 11:30:00",
+  "title": "ＪＲ東日本　新幹線で無料のインターネットのサービス",
+  "title_with_ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>　<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>無料<rt>むりょう</rt></ruby>のインターネットのサービス",
+  "outline_with_ruby": "<p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>新幹線<rt>しんかんせん</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>無線<rt>むせん</rt></ruby></a>のＬＡＮの<a href='javascript:void(0)' class='dicWin' id='id-0002'>サービス</a>を<ruby>始<rt>はじ</rt></ruby>めて、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>無料<rt>むりょう</rt></ruby></a>でインターネットが<ruby>利用<rt>りよう</rt></ruby>できるようにすることにしました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171113/../20171113/K10011221251_1711130515_1711130517_01_03.jpg?utm_int=nsearch_contents_search-items_001",
+  "news_web_movie_uri": "k10011221251_201711130515_201711130517.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011221251000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011221251000/k10011221251000.html"
+}

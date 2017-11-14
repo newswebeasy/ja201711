@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。",
+          "hyouki": [
+            "天然記念物"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>年</rb><rt>とし</rt></ruby>や<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>・<ruby><rb>時刻</rb><rt>じこく</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す１２の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>子</rb><rt>ね</rt></ruby>（ねずみ）・<ruby><rb>丑</rb><rt>うし</rt></ruby>・<ruby><rb>寅</rb><rt>とら</rt></ruby>・<ruby><rb>卯</rb><rt>う</rt></ruby>（うさぎ）・<ruby><rb>辰</rb><rt>たつ</rt></ruby>（りゅう）・<ruby><rb>巳</rb><rt>み</rt></ruby>（へび）・<ruby><rb>午</rb><rt>うま</rt></ruby>・<ruby><rb>未</rb><rt>ひつじ</rt></ruby>・<ruby><rb>申</rb><rt>さる</rt></ruby>・<ruby><rb>酉</rb><rt>とり</rt></ruby>（にわとり）・<ruby><rb>戌</rb><rt>いぬ</rt></ruby>・<ruby><rb>亥</rb><rt>い</rt></ruby>（いのしし）のこと。",
+          "hyouki": [
+            "十二支"
+          ]
+        }
+      ]
+    }
+  }
+}
