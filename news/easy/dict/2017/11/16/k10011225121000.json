@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>るとき、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>図</rb><rt>ず</rt></ruby>にかくこと。また、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "設計"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人生</rb><rt>じんせい</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などの<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てること。",
+          "hyouki": [
+            "設計"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>や<ruby><rb>高原</rb><rt>こうげん</rt></ruby>などに、ふだん<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>家</rb><rt>いえ</rt></ruby>とは<ruby><rb>別</rb><rt>べつ</rt></ruby>に<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>家</rb><rt>いえ</rt></ruby>。",
+          "hyouki": [
+            "別荘"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などの<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>建</rb><rt>た</rt></ruby>てること。",
+          "hyouki": [
+            "建築"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>板</rb><rt>いた</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>色</rb><rt>いろ</rt></ruby>をつけ、つやを<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>建築</rb><rt>けんちく</rt></ruby>の<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。ふろ<ruby><rb>場</rb><rt>ば</rt></ruby>などにはる。",
+          "hyouki": [
+            "タイル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>実</rb><rt>み</rt></ruby>からオリーブ<ruby><rb>油</rb><rt>ゆ</rt></ruby>をとる<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>地中海地方</rb><rt>ちちゅうかいちほう</rt></ruby>や<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>小豆島</rb><rt>しょうどしま</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "オリーブ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "天井"
+          ]
+        },
+        {
+          "def": "ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。",
+          "hyouki": [
+            "天井"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ]
+    }
+  }
+}
