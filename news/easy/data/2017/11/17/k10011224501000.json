@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011224501000",
+  "news_prearranged_time": "2017-11-17 11:30:00",
+  "title": "インターネットでいろいろな「おせち料理」を売る",
+  "title_with_ruby": "インターネットでいろいろな「おせち<ruby>料理<rt>りょうり</rt></ruby>」を<ruby>売<rt>う</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>正月<rt>しょうがつ</rt></ruby>まであと１か<ruby>月<rt>げつ</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらいになりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171115/../20171115/K10011224501_1711151928_1711151938_01_03.jpg",
+  "news_web_movie_uri": "k10011224501_201711151928_201711151938.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011224501000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011224501000/k10011224501000.html"
+}

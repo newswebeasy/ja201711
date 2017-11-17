@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>や<ruby><rb>節句</rb><rt>せっく</rt></ruby>などに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。ふつう<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の、こぶ<ruby><rb>巻</rb><rt>ま</rt></ruby>きや<ruby><rb>煮</rb><rt>に</rt></ruby>しめなどのこと。",
+          "hyouki": [
+            "お節料理"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>をのせる。",
+          "hyouki": [
+            "重ねる"
+          ]
+        },
+        {
+          "def": "くり<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "重ねる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}
