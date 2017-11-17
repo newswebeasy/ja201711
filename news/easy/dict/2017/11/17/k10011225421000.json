@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>十四</rb><rt>じゅうよん</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>の<ruby><rb>末</rb><rt>すえ</rt></ruby>から<ruby><rb>十六</rb><rt>じゅうろく</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>にかけてイタリアに<ruby><rb>起</rb><rt>お</rt></ruby>こり、ヨーロッパに<ruby><rb>広</rb><rt>ひろ</rt></ruby>がった<ruby><rb>運動</rb><rt>うんどう</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>のギリシャ・ローマの<ruby><rb>学問</rb><rt>がくもん</rt></ruby>・<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>のような、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にした<ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こそうとした。<ruby><rb>文芸復興</rb><rt>ぶんげいふっこう</rt></ruby>。ルネッサンス。",
+          "hyouki": [
+            "ルネサンス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>石英</rb><rt>せきえい</rt></ruby>が<ruby><rb>六角形</rb><rt>ろっかくけい</rt></ruby>の<ruby><rb>柱</rb><rt>はしら</rt></ruby>になっている<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>。はんこやかざり<ruby><rb>物</rb><rt>もの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "水晶"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。",
+          "hyouki": [
+            "美術品"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ]
+    }
+  }
+}

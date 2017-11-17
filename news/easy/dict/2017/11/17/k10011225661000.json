@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "兵器"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。",
+          "hyouki": [
+            "東南アジア"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。",
+          "hyouki": [
+            "毒"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

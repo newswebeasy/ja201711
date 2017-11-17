@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011225421000",
+  "news_prearranged_time": "2017-11-17 16:20:00",
+  "title": "ダビンチの絵　今までのオークションで最も高い約５０８億円",
+  "title_with_ruby": "ダビンチの<ruby>絵<rt>え</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までのオークションで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>約<rt>やく</rt></ruby>５０８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>",
+  "outline_with_ruby": "<p>レオナルド・ダビンチは「モナリザ」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>をかいた、<a href='javascript:void(0)' class='dicWin' id='id-0002'>ルネサンス</a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>芸術家<rt>げいじゅつか</rt></ruby></a>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171116/../20171116/K10011225421_1711161215_1711161216_01_03.jpg",
+  "news_web_movie_uri": "k10011225421_201711161215_201711161216.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011225421000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011225421000/k10011225421000.html"
+}

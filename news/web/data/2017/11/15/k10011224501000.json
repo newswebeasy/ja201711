@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011224501000/k10011224501000.html",
+      "title": "インターネットでいろいろな「おせち料理」を売る",
+      "time": "NEWSWEB EASY 11月17日",
+      "datetime": "2017-11-17"
+    }
+  ],
   "word": [],
   "news_id": "k10011224501000",
   "yyyy": "2017",
