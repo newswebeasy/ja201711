@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>王</rb><rt>おう</rt></ruby>のむすこ。",
+          "hyouki": [
+            "王子"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。",
+          "hyouki": [
+            "財産"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>位</rb><rt>くらい</rt></ruby>。<ruby><rb>身分</rb><rt>みぶん</rt></ruby>。",
+          "hyouki": [
+            "地位"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "地位"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。",
+          "hyouki": [
+            "通信社"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ]
+    }
+  }
+}
