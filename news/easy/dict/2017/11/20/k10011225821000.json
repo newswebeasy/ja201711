@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>が<ruby><rb>困</rb><rt>こま</rt></ruby>ることをしたり、いやがることを<ruby><rb>言</rb><rt>い</rt></ruby>ったりして、<ruby><rb>苦</rb><rt>くる</rt></ruby>しめること。",
+          "hyouki": [
+            "いじめ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>。",
+          "hyouki": [
+            "内容"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>や<ruby><rb>話</rb><rt>はなし</rt></ruby>によって、<ruby><rb>表</rb><rt>あらわ</rt></ruby>されたもの。",
+          "hyouki": [
+            "内容"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ]
+    }
+  }
+}
