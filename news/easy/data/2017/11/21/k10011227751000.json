@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011227751000",
+  "news_prearranged_time": "2017-11-21 11:30:00",
+  "title": "札幌　雪が降って「ササラ電車」が出発する",
+  "title_with_ruby": "<ruby>札幌<rt>さっぽろ</rt></ruby>　<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>出発<rt>しゅっぱつ</rt></ruby>する",
+  "outline_with_ruby": "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>札幌市<rt>さっぽろし</rt></ruby>では１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>０<ruby>時<rt>じ</rt></ruby>ごろから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171118/../20171118/K10011227751_1711180652_1711180655_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011227751000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011227751000/k10011227751000.html"
+}
