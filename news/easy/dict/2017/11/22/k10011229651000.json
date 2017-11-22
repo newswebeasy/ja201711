@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>門</rb><rt>もん</rt></ruby>。<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>。",
+          "hyouki": [
+            "ゲート"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>駅</rb><rt>えき</rt></ruby>などの<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>で）<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>のきっぷを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。また、その<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "改札"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ケース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。",
+          "hyouki": [
+            "ケース"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。",
+          "hyouki": [
+            "床"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。",
+          "hyouki": [
+            "埋める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。",
+          "hyouki": [
+            "埋める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>などのかざりつけ。<ruby><rb>展示</rb><rt>てんじ</rt></ruby>。",
+          "hyouki": [
+            "ディスプレー"
+          ]
+        },
+        {
+          "def": "コンピューターで、<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>図表</rb><rt>ずひょう</rt></ruby>を<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ディスプレー"
+          ]
+        }
+      ]
+    }
+  }
+}
