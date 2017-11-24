@@ -1,0 +1,192 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "えりもとをかざったり、<ruby><rb>頭</rb><rt>あたま</rt></ruby>にかぶったりする<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "スカーフ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。",
+          "hyouki": [
+            "ショー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "ショー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>流行</rb><rt>りゅうこう</rt></ruby>。はやり。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>服装</rb><rt>ふくそう</rt></ruby>についていう。",
+          "hyouki": [
+            "ファッション"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。",
+          "hyouki": [
+            "布"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。",
+          "hyouki": [
+            "理解"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。",
+          "hyouki": [
+            "理解"
+          ]
+        }
+      ]
+    }
+  }
+}

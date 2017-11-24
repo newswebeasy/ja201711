@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>質問</rb><rt>しつもん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>答</rb><rt>こた</rt></ruby>えさせる<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "クイズ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ]
+    }
+  }
+}
