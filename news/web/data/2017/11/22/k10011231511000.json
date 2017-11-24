@@ -25,7 +25,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011231511000/k10011231511000.html",
+      "title": "イスラム教の女性に「カワイイ」デザインのスカーフを紹介する",
+      "time": "NEWSWEB EASY 11月24日",
+      "datetime": "2017-11-24"
+    }
+  ],
   "word": [],
   "news_id": "k10011231511000",
   "yyyy": "2017",

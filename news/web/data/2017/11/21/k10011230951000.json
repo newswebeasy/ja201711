@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011230951000/k10011230951000.html",
+      "title": "「みんなで問題を解決する力」日本の１５歳は世界で２番",
+      "time": "NEWSWEB EASY 11月24日",
+      "datetime": "2017-11-24"
+    }
+  ],
   "word": [
     {
       "link": "word/0000034.html",
