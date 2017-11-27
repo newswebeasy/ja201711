@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011232381000",
+  "news_prearranged_time": "2017-11-27 11:30:00",
+  "title": "横浜市　住んでいる人の生活をＡＩで手伝うマンション",
+  "title_with_ruby": "<ruby>横浜市<rt>よこはまし</rt></ruby>　<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>をＡＩで<ruby>手伝<rt>てつだ</rt></ruby>うマンション",
+  "outline_with_ruby": "<p>「ＡＩ」というコンピューターの<ruby>技術<rt>ぎじゅつ</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>って、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0000'>マンション</a>が<ruby>横浜市<rt>よこはまし</rt></ruby>にできました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171122/../20171122/K10011232381_1711221745_1711221749_01_02.jpg",
+  "news_web_movie_uri": "k10011232381_201711221832_201711221834.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011232381000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011232381000/k10011232381000.html"
+}

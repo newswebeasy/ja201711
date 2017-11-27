@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "デザイナーが<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>型</rb><rt>かた</rt></ruby>の<ruby><rb>服</rb><rt>ふく</rt></ruby>などを<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "ファッションショー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。",
+          "hyouki": [
+            "ダンス"
+          ]
+        }
+      ]
+    }
+  }
+}

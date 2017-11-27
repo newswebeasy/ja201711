@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011232821000",
+  "news_prearranged_time": "2017-11-27 11:30:00",
+  "title": "捨てたがんの薬「計算すると７３８億円になる」",
+  "title_with_ruby": "<ruby>捨<rt>す</rt></ruby>てたがんの<ruby>薬<rt>くすり</rt></ruby>「<ruby>計算<rt>けいさん</rt></ruby>すると７３８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になる」",
+  "outline_with_ruby": "<p><ruby>病院<rt>びょういん</rt></ruby>では<a href='javascript:void(0)' class='dicWin' id='id-0000'>がん</a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>治療<rt>ちりょう</rt></ruby></a>のために「<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>」という<ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますが、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>使<rt>つか</rt></ruby>わないで<ruby>残<rt>のこ</rt></ruby>ることがあります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171123/../20171123/K10011232821_1711230708_1711230710_01_03.jpg",
+  "news_web_movie_uri": "k10011232821_201711230708_201711230710.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011232821000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011232821000/k10011232821000.html"
+}
