@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>で、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>ごとに<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区分</rb><rt>くわ</rt></ruby>け。",
+          "hyouki": [
+            "課"
+          ]
+        },
+        {
+          "def": "わりあて。わりあてたもの。",
+          "hyouki": [
+            "課"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "評価"
+          ]
+        },
+        {
+          "def": "ものごとのよしあしや、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "評価"
+          ]
+        }
+      ]
+    }
+  }
+}

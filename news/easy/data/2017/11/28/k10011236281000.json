@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011236281000",
+  "news_prearranged_time": "2017-11-28 11:30:00",
+  "title": "ＡＩが社員のデータを調べて仕事に合った人を選ぶ",
+  "title_with_ruby": "ＡＩが<ruby>社員<rt>しゃいん</rt></ruby>のデータを<ruby>調<rt>しら</rt></ruby>べて<ruby>仕事<rt>しごと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、コンピューターのＡＩという<ruby>技術<rt>ぎじゅつ</rt></ruby>で、どの<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>課<rt>か</rt></ruby></a>にどの<ruby>人<rt>ひと</rt></ruby>を<ruby>置<rt>お</rt></ruby>くか<ruby>決<rt>き</rt></ruby>める<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171126/../20171126/K10011236281_1711261802_1711261803_01_02.jpg",
+  "news_web_movie_uri": "k10011236281_201711261923_201711261929.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011236281000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011236281000/k10011236281000.html"
+}
