@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。",
+          "hyouki": [
+            "粒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まっているものの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>質</rb><rt>しつ</rt></ruby>や<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "粒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "粒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ]
+    }
+  }
+}

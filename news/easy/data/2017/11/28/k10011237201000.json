@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011237201000",
+  "news_prearranged_time": "2017-11-28 16:00:00",
+  "title": "日本の「量子コンピューター」が使えるウェブサイト",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」が<ruby>使<rt>つか</rt></ruby>えるウェブサイト",
+  "outline_with_ruby": "<p>「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」は、スーパーコンピューターよりずっと<ruby>速<rt>はや</rt></ruby>く<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>計算<rt>けいさん</rt></ruby></a>できるコンピューターです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171127/../20171127/K10011237201_1711271813_1711271827_01_03.jpg",
+  "news_web_movie_uri": "k10011237201_201711271813_201711271827.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011237201000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011237201000/k10011237201000.html"
+}
