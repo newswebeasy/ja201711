@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011237821000",
+  "news_prearranged_time": "2017-11-29 16:20:00",
+  "title": "バリ島で火山が噴火　飛行機が飛ぶことができなくなる",
+  "title_with_ruby": "バリ<ruby>島<rt>とう</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ぶことができなくなる",
+  "outline_with_ruby": "<p>インドネシアのバリ<ruby>島<rt>とう</rt></ruby>で２１<ruby>日<rt>にち</rt></ruby>、アグン<ruby>山<rt>さん</rt></ruby>という<ruby>高<rt>たか</rt></ruby>さ３０００ｍの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>火山<rt>かざん</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>噴火<rt>ふんか</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171128/../20171128/K10011237821_1711281126_1711281126_01_02.jpg",
+  "news_web_movie_uri": "k10011237821_201711281218_201711281222.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011237821000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011237821000/k10011237821000.html"
+}
