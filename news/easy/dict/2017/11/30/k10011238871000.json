@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。",
+          "hyouki": [
+            "妊娠"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>引</rb><rt>ひ</rt></ruby>きかえにわたす。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>より<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>にする。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>延</rb><rt>の</rt></ruby>ばす。",
+          "hyouki": [
+            "譲る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>引</rb><rt>ひ</rt></ruby>きかえにわたす。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>より<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>にする。",
+          "hyouki": [
+            "譲る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>延</rb><rt>の</rt></ruby>ばす。",
+          "hyouki": [
+            "譲る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。",
+          "hyouki": [
+            "登録"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

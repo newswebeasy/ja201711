@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011238081000/k10011238081000.html",
+      "title": "赤ちゃんの名前 今年は「はると」と「さくら」が最も多い",
+      "time": "NEWSWEB EASY 11月30日",
+      "datetime": "2017-11-30"
+    }
+  ],
   "word": [],
   "news_id": "k10011238081000",
   "yyyy": "2017",
